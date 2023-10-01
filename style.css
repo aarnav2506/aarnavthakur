@@ -21,8 +21,8 @@ body {
 }
 .profile{
   border-radius: 50%; 
-    height: 200px;
-    width: 200px;
+    height: 175px;
+    width: 175px;
    
     
     
@@ -51,7 +51,12 @@ h2{
     padding-left: 20px
     
 }
-
+h4{
+    text-align: center;
+    padding-left: 20px;
+    font-style:initial;
+    font-size: 20px;
+}
 
 
 
